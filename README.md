@@ -250,9 +250,11 @@ ATM-System/
 # 👨‍💻 Authors
 
 Developed as a **C++ programming Mid-Term project** simulating real-world ATM banking operations.
-By Tim,Karl,Rodge
+
 ---
 
 # 📜 License
 
 This project is for **educational purposes only**.
+
+
