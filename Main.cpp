@@ -1,11 +1,11 @@
 /*
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║        F E I N   B A N K I N G   T E R M I N A L   ·   v5.0               ║
-║        Philippine Banking Simulation  ·  Professional Terminal UI           ║
+║        F E I N   B A N K I N G   T E R M I N A L   ·   v5.0  .                ║
+║        Philippine Banking Simulation  ·  Professional Terminal UI            ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
-║  Authors:  Dimabayao, Karl Ancel T.                                         ║
-║            Ramos, Timothy Christopher A.                                    ║
-║            Odiame, Rodge Ravin C.                                           ║
+║  Authors:  Dimabayao, Karl Ancel T.                                          ║
+║            Ramos, Timothy Christopher A.                                     ║
+║            Odiame, Rodge Ravin C.                                            ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 */
 
